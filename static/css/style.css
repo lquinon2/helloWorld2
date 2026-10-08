@@ -1,10 +1,11 @@
 p {
     color: dimgray;
-    font-weight: bold;
+    font-weight: 550;
 }
 /*I used 2em to increase the h2 headings twice their original size*/
-h2 {color: saddlebrown;
-    font-weight: bold;
+h2 {
+    color: saddlebrown;
+    font-weight: 550;
     font-size: 2em;
 }
 table, td, th {
