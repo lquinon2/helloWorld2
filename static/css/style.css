@@ -3,7 +3,7 @@ p {
     font-weight: bold;
 }
 /*I used 2em to increase the h2 headings twice their original size*/
-h2 {color: peru;
+h2 {color: saddlebrown;
     font-weight: bold;
     font-size: 2em;
 }
@@ -17,7 +17,7 @@ table, td, th {
 /*I added a new paragraph to my About page that is unique, so using a pound sign I can using the ID "special one""
  on my HTML page to apply these rules to my only unique paragraph.*/
 #special-one {
-    color: firebrick;
+    color: brown;
     font-weight: bold;
 }
 /*By using a period, I can use the class attribute in my HTML page to connect these rules to paragraph HTML elements*/
