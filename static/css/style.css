@@ -1,6 +1,7 @@
 p {
     color: dimgray;
     font-weight: 550;
+    background-color: burlywood;
 }
 /*I used 2em to increase the h2 headings twice their original size*/
 h2 {
@@ -22,7 +23,7 @@ table, td, th {
     font-weight: bold;
 }
 /*By using a period, I can use the class attribute in my HTML page to connect these rules to paragraph HTML elements*/
-p.black {color:darkred}
+p.darkred {color:darkred}
 
 img.logo{
     width: 267px;
