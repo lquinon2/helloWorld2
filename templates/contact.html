@@ -2,10 +2,9 @@
 
 {% block title %}Contact Me{% endblock %}
 
-{% block header %}Contact Me{% endblock %}
-
+{% block header %}Contact Me Form{% endblock %}
 {% block content %}
-
+    <p>By: Leslie Quinonez</p>
     {% if form_submitted %}
         <div class="col-12">
             <h2>Thank you for completing my form!</h2>
@@ -77,6 +76,7 @@
     <div class="col-md-12">
         <button type="submit" class="btn btn-primary">Submit</button>
     </div>
+
 </form>
 {% endif %}
 {% endblock %}
